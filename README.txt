@@ -1,0 +1,2 @@
+AscendMind Hajj & Umrah Website\n1. WhatsApp Business number configured: +2348139302700.\n2. Open index.html locally to preview.\n3. Upload all three files to a GitHub repository and import into Vercel as Other/static project.\n4. This is an enquiry-to-WhatsApp form, not a database registration system.\n5. Replace sample photography and review business/legal claims before launch.\n
+All photographs are local in assets/. Confirm publication rights before using images commercially.
